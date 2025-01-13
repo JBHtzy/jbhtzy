@@ -131,7 +131,7 @@
               </p>
             </div>
             <a
-              href="http://teacher-evaluation.free.nf/"
+              href="http://teacherevaluation.free.nf/"
               target="_blank"
               class="btn btn-info"
             >
