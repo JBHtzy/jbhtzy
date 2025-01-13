@@ -88,7 +88,7 @@
               <span class="badge text-bg-primary">PHP</span>
               <span class="badge text-bg-secondary">MySQL</span>
               <span class="badge text-bg-info">BootStrap</span>
-              <span class="badge text-bg-success">jQuery</span>
+              <span class="badge text-bg-success">JS/jQuery</span>
             </div>
             <div class="fst-italic mt-3">
               <p>
@@ -121,7 +121,7 @@
               <span class="badge text-bg-primary">PHP</span>
               <span class="badge text-bg-secondary">MySQL</span>
               <span class="badge text-bg-info">BootStrap</span>
-              <span class="badge text-bg-success">jQuery</span>
+              <span class="badge text-bg-success">JS/jQuery</span>
             </div>
             <div class="fst-italic mt-3">
               <p>
@@ -131,7 +131,7 @@
               </p>
             </div>
             <a
-              href="http://teacher-evaluation.free.nf/"
+              href="http://teacherevaluation.free.nf/"
               target="_blank"
               class="btn btn-info"
             >
@@ -174,6 +174,38 @@
           </div>
         </div>
         <!-- card 6 -->
+        <div
+          class="card rounded"
+          data-bs-toggle="modal"
+          data-bs-target="#card5"
+        >
+          <div class="image7 rounded-top"></div>
+          <div class="content">
+            <a href="#">
+              <span class="title">Car Rental System </span>
+            </a>
+            <div class="d-flex justify-content-start gap-2 mt-3">
+              <span class="badge text-bg-danger">Laravel Framework</span>
+              <span class="badge text-bg-info">BootStrap</span>
+            </div>
+            <div class="fst-italic mt-3">
+              <p>
+                Car Rental System is a online website which is a side project
+                currently still in development for my personal project. I'll use
+                Laravel framework for both frontend and backend operation.
+              </p>
+            </div>
+            <a
+              href="https://card-rentalsys.netlify.app/"
+              target="_blank"
+              class="btn btn-info"
+            >
+              <i class="fa-solid fa-up-right-from-square"></i>
+              Visit here
+            </a>
+          </div>
+        </div>
+        <!-- card 7 -->
         <div class="card rounded">
           <div class="image4 rounded-top"></div>
           <div class="content">
