@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary shadow">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary ">
       <div class="container-fluid p-2 px-5">
         <nuxt-link class="navbar-brand fw-bold fs-4" to="/"
           >JB's Portfolio</nuxt-link
