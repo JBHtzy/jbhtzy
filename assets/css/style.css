@@ -19,6 +19,11 @@
   border-radius: 4px;
 }
 
+body {
+  max-width: 100%;
+  height: 100vh;
+}
+
 .divider {
   border: 1px solid #d3d3d3;
   width: 75%;
@@ -48,16 +53,27 @@
 }
 
 /* aboutme */
+.aboutcontents {
+  width: 60%;
+}
+
 .about-text {
-  width: 64%;
+  width: 104%;
 }
 
 .about-text p {
   line-height: 1.5;
 }
 
+.card-profile {
+  width: 420px;
+  background-color: #fff;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  transition: top ease 0.5s;
+}
+
 /* Projects */
-.card {
+.card-tabs {
   max-width: 380px;
   height: 470px;
   background-color: #fff;
@@ -67,7 +83,7 @@
   cursor: pointer;
 }
 
-.card:hover {
+.card-tabs:hover {
   top: -15px;
 }
 

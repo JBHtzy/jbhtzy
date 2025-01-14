@@ -26,6 +26,7 @@ export default defineNuxtConfig({
         },
       ],
       link: [
+        { rel: "canonical", href: "https://jbportfolio-blog.netlify.app/" },
         {
           rel: "stylesheet",
           href: "https://fonts.googleapis.com/css2?family=Poppins&display=swap",

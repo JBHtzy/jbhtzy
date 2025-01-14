@@ -7,14 +7,16 @@
       >
         <!-- card 1 -->
         <div
-          class="card rounded"
+          class="card rounded card-tabs"
           data-bs-toggle="modal"
           data-bs-target="#card1"
         >
           <div class="image rounded-top"></div>
           <div class="content">
-            <span class="title">(ASCB) School Management System</span>
-
+            <span class="title"
+              >(ASCB) School Management System
+              <span class="badge text-bg-primary">Company Project</span></span
+            >
             <div class="d-flex justify-content-start gap-2 mt-3">
               <span class="badge text-bg-danger">Angular</span>
               <span class="badge text-bg-warning">Laravel</span>
@@ -43,15 +45,17 @@
         </div>
         <!-- card 2 -->
         <div
-          class="card rounded"
+          class="card rounded card-tabs"
           data-bs-toggle="modal"
           data-bs-target="#card2"
         >
           <div class="image5 rounded-top"></div>
           <div class="content">
-            <a href="#">
-              <span class="title">(MNHS) ONLINE ENROLLMENT SYSTEM</span>
-            </a>
+            <span class="title"
+              >(MNHS) ONLINE ENROLLMENT SYSTEM
+              <span class="badge text-bg-primary">Freelance Project</span>
+              <span class="ms-2 badge text-bg-secondary">Private</span></span
+            >
 
             <div class="d-flex justify-content-start gap-2 mt-3">
               <span class="badge text-bg-danger">Angular</span>
@@ -63,27 +67,25 @@
             </div>
             <div class="fst-italic mt-3">
               <p>
-                MNHS Enrollment System is an online website project in my
-                previous client. I use Angular for frontend and Laravel for
-                backend via API. They're mostly the same in my previous work
-                where I also improve my skills and explore.
+                MNHS Enrollment System is an online website it's a group project
+                in our previous client. They're mostly the same in my previous
+                work and this where I hone and improve my skills.
               </p>
             </div>
           </div>
         </div>
         <!-- card 3 -->
         <div
-          class="card rounded my-3"
+          class="card rounded my-3 card-tabs"
           data-bs-toggle="modal"
           data-bs-target="#card3"
         >
           <div class="image2 rounded-top"></div>
           <div class="content">
-            <a href="#">
-              <span class="title">
-                Scheduling, Sales & Inventory Information System
-              </span>
-            </a>
+            <span class="title">
+              Scheduling, Sales & Inventory Information System <br />
+              <span class="badge text-bg-primary">Capstone Project</span>
+            </span>
             <div class="d-flex justify-content-start gap-2 mt-3">
               <span class="badge text-bg-primary">PHP</span>
               <span class="badge text-bg-secondary">MySQL</span>
@@ -108,15 +110,16 @@
         </div>
         <!-- card 4 -->
         <div
-          class="card rounded"
+          class="card rounded card-tabs"
           data-bs-toggle="modal"
           data-bs-target="#card4"
         >
           <div class="image6 rounded-top"></div>
           <div class="content">
-            <a href="#">
-              <span class="title">Teachers Evaluation System </span>
-            </a>
+            <span class="title"
+              >Teachers Evaluation System <br />
+              <span class="badge text-bg-primary">Freelance Project</span></span
+            >
             <div class="d-flex justify-content-start gap-2 mt-3">
               <span class="badge text-bg-primary">PHP</span>
               <span class="badge text-bg-secondary">MySQL</span>
@@ -141,12 +144,13 @@
           </div>
         </div>
         <!-- card 5 -->
-        <div class="card rounded">
+        <div class="card rounded card-tabs">
           <div class="image3 rounded-top"></div>
           <div class="content">
-            <a href="#">
-              <span class="title">NuxtStore Site </span>
-            </a>
+            <span class="title"
+              >NuxtStore Site <br />
+              <span class="badge text-bg-primary">Personal Project</span></span
+            >
             <div class="d-flex justify-content-start gap-2 mt-3">
               <span class="badge text-bg-success">Vue3</span>
               <span class="badge text-bg-info">NuxtJS</span>
@@ -175,15 +179,16 @@
         </div>
         <!-- card 6 -->
         <div
-          class="card rounded"
+          class="card rounded card-tabs"
           data-bs-toggle="modal"
           data-bs-target="#card5"
         >
           <div class="image7 rounded-top"></div>
           <div class="content">
-            <a href="#">
-              <span class="title">Car Rental System </span>
-            </a>
+            <span class="title"
+              >Car Rental System <br />
+              <span class="badge text-bg-primary">Personal Project</span></span
+            >
             <div class="d-flex justify-content-start gap-2 mt-3">
               <span class="badge text-bg-danger">Laravel Framework</span>
               <span class="badge text-bg-info">BootStrap</span>
@@ -206,7 +211,7 @@
           </div>
         </div>
         <!-- card 7 -->
-        <div class="card rounded">
+        <div class="card rounded card-tabs">
           <div class="image4 rounded-top"></div>
           <div class="content">
             <a href="#">
